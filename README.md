@@ -8,9 +8,15 @@ Objective
 
 The primary goal of this project is to utilize Python libraries and machine learning algorithms to develop a predictive model for cervical cancer risk assessment. Through exploratory data analysis and model training, we aim to understand the underlying patterns in the data and build an effective classifier.
 
+
 Learning Objectives
-•	Apply Python libraries to import and visualize dataset.
+•	Apply Python libraries to import and visualize dataset
+
 •	Perform exploratory data analysis to understand data distribution and relationships.
+
 •	Split and standardize training and testing dataset.
+
 •	Train the XGBoost model using Scikit-Learn.
+
 •	Evaluate and analyze the performance of classifier models.
+
