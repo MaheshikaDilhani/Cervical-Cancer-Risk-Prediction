@@ -10,6 +10,7 @@ The primary goal of this project is to utilize Python libraries and machine lear
 
 
 Learning Objectives
+
 •	Apply Python libraries to import and visualize dataset
 
 •	Perform exploratory data analysis to understand data distribution and relationships.
