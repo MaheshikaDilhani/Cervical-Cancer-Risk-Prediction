@@ -6,7 +6,7 @@ Cervical cancer is a significant health concern, with thousands of women affecte
 
 
 
-Objective
+# Objective
 
 The primary goal of this project is to utilize Python libraries and machine learning algorithms to develop a predictive model for cervical cancer risk assessment. Through exploratory data analysis and model training, aim to understand the underlying patterns in the data and build an effective classifier.
 
