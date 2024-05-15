@@ -1,5 +1,5 @@
 # Cervical-Cancer-Risk-Prediction
-
+![cervical](https://github.com/MaheshikaDilhani/Cervical-Cancer-Risk-Prediction/upload/main)
 Introduction
 
 Cervical cancer is a significant health concern, with thousands of women affected annually. In this project, I leverage machine learning techniques to build a classifier that predicts the risk of cervical cancer in individuals. The dataset used contains information on 858 patients, including factors such as number of pregnancies, smoking habits, STD history, demographics, and medical records.
